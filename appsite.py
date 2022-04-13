@@ -8,6 +8,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
+import _tkinter 
 import plotly.graph_objects as go
 import altair as alt
 import plotly.express as px
