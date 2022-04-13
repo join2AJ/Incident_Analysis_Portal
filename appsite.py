@@ -3,7 +3,7 @@ import datetime
 from io import StringIO
 from re import M, X
 from time import time
-# from turtle import width
+from turtle import width
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
