@@ -1,3 +1,5 @@
+pip install plotly
+
 # Importing Libraries
 import datetime
 from io import StringIO
