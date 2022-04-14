@@ -10,7 +10,7 @@ import streamlit as st
 import numpy as np
 # import plotly.graph_objects as go
 # import altair as alt
-# import plotly.express as px
+import plotly.express as px
 # import plotly.figure_factory as ff
 # from PIL import Image
 
