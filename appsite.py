@@ -15,7 +15,7 @@ import plotly.figure_factory as ff
 # from PIL import Image
 
 #Temp Data assigning
-df = pd.read_csv("./Affirm Report.csv")
+df = pd.read_csv("./Affirm__Report.csv")
 
 # # Uploading and reading a CSV File less than 200 MB - in sidebar
 # uploaded_file = st.sidebar.file_uploader("Choose a file")
