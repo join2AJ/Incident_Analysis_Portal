@@ -16,7 +16,7 @@ A Python Streamlet application that analyzes incident reports to determine any c
 ## Installation
 1. Clone the repository
 2. Install the requirements
-3. Run the app - streamlit run app.py
+3. Run the app - streamlit run appsite.py
 
 ## Contributing
 1. Fork the repository
