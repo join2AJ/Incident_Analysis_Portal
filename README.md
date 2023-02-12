@@ -34,5 +34,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 @Ajay is a skilled software developer with experience in Python and data analysis. Currently the maintainer of this project and have contributed greatly to the current code base. Have a strong passion for developing software that can make a positive impact in the world and are always seeking new challenges to enhance skills and knowledge. 
 
-If you have any questions or issues with the code, you can reach out to me through GitHub profile.
-I'm always eager to help and make improvements to the project.
+If you have any questions or issues with the code, you can reach out to @Ajay through GitHub profile.
+He is always eager to help and make improvements to the project.
